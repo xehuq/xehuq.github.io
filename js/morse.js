@@ -2,7 +2,7 @@
 var morse = (function() {
 	var isSilent = true,
 		alpha = {
-			A: ".-", 
+			A: "1", 
 			B: "-...", 
 			C: "-.-.", 
 			D: "-..", 

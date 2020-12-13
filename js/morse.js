@@ -1,4 +1,3 @@
-// code by https://github.com/lukedmartin/morse
 var morse = (function() {
 	var isSilent = true,
 		alpha = {
